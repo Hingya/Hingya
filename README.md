@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hingya
+- 👋 Hi, I’m @Swapnil Suresh Hingmire
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data scientist course
 - 📫 How to reach me,doesn't need 
